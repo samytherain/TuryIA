@@ -1,0 +1,99 @@
+
+
+h1 {
+  color: white;
+  font-size: 50px;
+	font-weight: 400;
+	padding: 2px;
+	margin: 0px;
+}
+
+.teaser {
+	color: white;
+  font-size: 20px;
+	font-weight: 400;
+	padding-top: 60px;
+}
+
+p {color: white;
+	font-size: 20px;
+font-weight: 100;
+padding: 0px;
+margin: 0px;
+}
+
+h3 {color: white;
+	font-size: 10px !important;
+	font-weight: 50;
+	padding: 0px;
+	margin: 0px;
+}
+
+.banner {
+    text-align: center;
+    color: white;
+    padding: 150px 0px;
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(https://cdn.pixabay.com/photo/2017/04/08/11/07/nerve-cell-2213009_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+h2.titre-violet {
+  color: #6A71E1;
+  font-size: 25px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+}
+
+h4.sous-titre {
+	font-size: 15px;
+	margin-top: 8px;
+}
+.card-white {
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11);
+    padding: 16px;
+    margin: 40px 0px;
+}
+
+.features {
+	 height: 300px;
+}
+
+body {
+background: rgb(240,240,240);
+    color: rgb(30,30,30);
+    font-size: 10px;
+    font-family: Lato, sans-serif;
+    margin: 0px;
+    font-weight: lighter;
+}
+
+.footer {
+  background-color: black;
+  padding: 40px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 20px;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
